@@ -10,6 +10,6 @@ class Program
 
   static void GreetUser(string name)
   {
-    Console.WriteLine($"Hello, {name}!");
+    Console.WriteLine($"Hello, my friend {name}! :)");
   }
 }
